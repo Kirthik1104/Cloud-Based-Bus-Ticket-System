@@ -29,6 +29,7 @@ offered by the website. All of the data is kept on the cloud and may also be kep
 <h1>Deployment</h1>
 1. Code the project locally: The first step is to develop the project on your local system, using the 
 appropriate languages and frameworks (HTML, CSS, JavaScript, PHP, etc.).
+
 2. Push the project to GitHub: Once the project is ready, you can push it to a GitHub repository, 
 (GitHub Link: https://github.com/Kirthik1104/ticket_reservation.git) where it will be stored and 
 version-controlled.
