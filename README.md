@@ -62,4 +62,4 @@ in the AWS Management Console, specifying the appropriate configuration options 
 instance protocol and port, the health check settings, and the security groups). Once the load 
 balancer is created, you can register your EC2 instances with the load balancer and update the 
 DNS records for your application to point to the load balancer endpoint instead of the EC2 
-instance IP address.
+instance IP address
