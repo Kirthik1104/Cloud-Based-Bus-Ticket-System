@@ -1,6 +1,6 @@
 # Cloud-Based-Bus-Ticket-System
 
-#Problem Statement:
+<h1>Problem Statement</h1>
 The aim of this report is to identify the challenges faced by the existing online ticket booking system and 
 propose a solution to make it scalable, dependable, and easy to maintain by utilizing cloud technologies 
 and services. Although the current application has been developed using PHP, Javascript, HTML, and CSS, 
@@ -11,7 +11,7 @@ proposed solution aims to leverage the scalability, security, and accessibility 
 as Amazon Elastic Compute Cloud (EC2), Amazon RDS, Amazon CloudFront, AWS CloudWatch to overcome 
 these challenges and offer a reliable and efficient ticket booking system for the users.
 
-#Abstract/ Introduction
+<h1>Abstract/ Introduction</h1>
 The objective of the website is to make it possible for customers to purchase tickets using a variety of 
 payment options and travel to any destination. The software also enables the administration to control 
 the trips that are offered, all of their online bookings, and direct customer bookings.
@@ -26,7 +26,7 @@ the application's backend. The issue of conventional data storage will also be r
 platform's administration will be able to manage all bookings (both in-person and online) using the system 
 offered by the website. All of the data is kept on the cloud and may also be kept locally.
 
-#Deployment
+<h1>Deployment</h1>
 1. Code the project locally: The first step is to develop the project on your local system, using the 
 appropriate languages and frameworks (HTML, CSS, JavaScript, PHP, etc.).
 2. Push the project to GitHub: Once the project is ready, you can push it to a GitHub repository, 
